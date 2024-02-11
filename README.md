@@ -1,0 +1,1 @@
+--> Projeto para servir de scafolding para iniciar projetos node com TS configurado no webpack
