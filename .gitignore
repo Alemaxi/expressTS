@@ -1,0 +1,17 @@
+# Arquivos de configuração
+*.env
+
+# Dependências npm
+/node_modules
+
+# Arquivos de build
+/dist
+/build
+
+# Arquivos de log
+*.log
+
+# Outros arquivos gerados
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
